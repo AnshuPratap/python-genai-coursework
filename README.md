@@ -42,7 +42,13 @@ This repository tracks my hands-on coding assignments for the **Generative AI Co
   * Utilizing `__init__.py` to expose package functionality.
   * Demonstrating modular programming principles to improve code organization, reusability, and maintainability.
     
-* **`Assignment6.ipynb`** *(Coming Soon)*
+* **`Assignment6/` (Exception Handling)**
+  * Applying `try`, `except`, `else`, and `finally` to safe division and invalid input.
+  * Validating prices, skipping invalid or negative entries, and keeping a running bill total.
+  * Raising and catching age validation errors at the caller.
+  * Handling missing files and permission errors while reading sample text data.
+  * Building an interactive shopping cart that reports item count and total bill.
+  * Includes five task notebooks, `Readme.md`, and the sample `data.txt` file.
 
 ---
 
